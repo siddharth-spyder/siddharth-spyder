@@ -40,8 +40,11 @@ I bridge the gap between complex data and real-world utility. I specialize in **
 ---
 
 ### 📈 GitHub Activity
-![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth-spyder&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-spyder&layout=compact&theme=tokyonight)
+
+| **Stats & Languages** |
+| :---: |
+| ![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharth-spyder&show_icons=true&theme=tokyonight&hide_border=true) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-spyder&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
