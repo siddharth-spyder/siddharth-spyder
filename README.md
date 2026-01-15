@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/siddharth-saravanan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:siddharthsaravanan27@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://medium.com/@siddharthsaravanan27"><img src="https://img.shields.io/badge/-Medium-12100E?style=flat-square&logo=Medium&logoColor=white"/></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=siddharth-spyder.siddharth-spyder" alt="Visitor Badge"/>
+<img src="https://komarev.com/ghpvc/?username=siddharth-spyder&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Badge"/>
 </p>
 
 I am a Data Systems Engineer and Full-Stack Developer with a background in Computer Science and an MS in Data Science from George Washington University. I specialize in building end-to-end intelligent systems, ranging from multi-agent AI orchestrations to scalable web architectures.
