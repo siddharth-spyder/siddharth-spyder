@@ -57,7 +57,7 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 #### 📊 [Dating Platform Prediction Analysis](https://github.com/siddharth-spyder/Dating-Analysis)
 * Analyzed 60,000+ records in **R** to model demographic behaviors, using **15+ visualizations** to identify high-conversion match patterns.
 
-#### 🖼️ [Image Steganalysis](https://github.com/siddharth-spyder/Bitcamp-Steganalysis](https://github.com/siddharth-spyder/Bitcamp_Steganalysis.git)
+#### 🖼️ [Image Steganalysis](https://github.com/siddharth-spyder/Bitcamp_Steganalysis)
 * Built a machine learning system for **Bitcamp (UMD)** that identifies hidden steganographic messages in digital images with **95% accuracy**.
 
 #### 🚗 [Eye on the Road](https://github.com/siddharth-spyder/Eye-on-the-road)
