@@ -67,25 +67,14 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 
 ## 📈 Contribution Activity
 
-| Category | Metric / Activity |
-| :--- | :--- |
-| **Current Focus** | Finalizing Capstone @ George Washington University |
-| **System Architecture** | Multi-Agent AI (LangGraph) & RAG Pipelines |
-| **Full-Stack Competency** | PHP, SQL, JavaScript, Bootstrap |
-| **Core Languages** | Python, R, Java, SQL |
-
----
-
-## 📈 Coding Activity
-
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-spyder&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddharth-spyder&show_icons=true&theme=tokyonight&count_private=true" alt="Siddharth's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
-  <img src="https://img.shields.io/badge/Contributions-welcome-orange.svg" alt="Contributions" />
-  <img src="https://img.shields.io/badge/Open%20Source-Love-blue.svg" alt="Open Source" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
