@@ -67,13 +67,27 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img width="100%" src="https://metrics.lecoq.io/siddharth-spyder?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&metadata=1&config.timezone=America/New_York" alt="GitHub Metrics" />
-</p>
+| Category | Metric / Activity |
+| :--- | :--- |
+| **Current Focus** | Finalizing Capstone @ George Washington University |
+| **System Architecture** | Multi-Agent AI (LangGraph) & RAG Pipelines |
+| **Full-Stack Competency** | PHP, SQL, JavaScript, Bootstrap |
+| **Core Languages** | Python, R, Java, SQL |
+
+---
+
+## 📈 Coding Activity
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" alt="Maintained" />
+  <img src="https://img.shields.io/badge/Contributions-welcome-orange.svg" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Open%20Source-Love-blue.svg" alt="Open Source" />
+</p>
+
 ---
 
 > "The goal is to turn data into information, and information into insight." – Carly Fiorina
