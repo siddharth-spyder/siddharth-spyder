@@ -54,7 +54,7 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 #### 🚔 [Virtual Police Station](https://github.com/siddharth-spyder/Virtual-Police-Station)
 * Engineered a full-stack **PHP/SQL** platform that reduced manual incident reporting data entry by **60%**, saving significant administrative time per case.
 
-#### 📊 [Dating Platform Prediction Analysis](https://github.com/siddharth-spyder/Dating-Analysis)
+#### 📊 [Dating Platform Prediction Analysis](https://github.com/siddharth-spyder/The-Extrapolats)
 * Analyzed 60,000+ records in **R** to model demographic behaviors, using **15+ visualizations** to identify high-conversion match patterns.
 
 #### 🖼️ [Image Steganalysis](https://github.com/siddharth-spyder/Bitcamp_Steganalysis)
