@@ -67,15 +67,14 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 
 ## 📈 Contribution Activity
 
-<a href="https://github.com/siddharth-spyder/">
-  <img alt="Siddharth's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&custom_title=Contribution%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&hide_border=true" />
-</a>
-
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddharth-spyder&show_icons=true&theme=tokyonight&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-spyder&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddharth-spyder&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" alt="Siddharth's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-spyder&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 ---
 
 > "The goal is to turn data into information, and information into insight." – Carly Fiorina
