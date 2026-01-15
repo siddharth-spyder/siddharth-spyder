@@ -68,15 +68,22 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-spyder&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddharth-spyder&show_icons=true&theme=tokyonight&count_private=true" alt="Siddharth's Stats" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
+### 💻 Technical Proficiency
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Top Languages** | Python, R, SQL, Java, PHP, JavaScript |
+| **AI Frameworks** | LangChain, LangGraph, Scikit-learn, PySpark |
+| **Full-Stack** | Bootstrap, HTML5, CSS3, MySQL, MongoDB |
+| **Cloud & Tools** | AWS, GCP, Git, Tableau, Power BI |
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth-spyder&theme=tokyonight&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img src="https://img.shields.io/badge/Data%20Science-Expertise-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Capable-ff69b4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems%20Design-Focused-green?style=for-the-badge" />
 </p>
 
 ---
-
 > "The goal is to turn data into information, and information into insight." – Carly Fiorina
