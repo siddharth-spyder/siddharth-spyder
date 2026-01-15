@@ -68,8 +68,7 @@ I enjoy the challenge of taking messy, unstructured data and turning it into hig
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharth-spyder&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharth-spyder&theme=tokyonight" alt="Top Languages" />
+  <img width="100%" src="https://metrics.lecoq.io/siddharth-spyder?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&metadata=1&config.timezone=America/New_York" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
